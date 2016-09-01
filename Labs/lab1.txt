@@ -1,0 +1,9 @@
+cd
+mkdir
+mv
+ls
+mv file name directory
+cp file name directory
+grep "string" filename
+ssh
+rm -R
